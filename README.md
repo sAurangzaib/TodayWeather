@@ -8,4 +8,7 @@ An iOS application written as an example of the proposed workflow.
     3- Showing image with API response and also updating background of the view accordingly
     4- Also support for device orientation.
     
-### Scenario 1 - Loading forecast successfully for two cities 
+### Scenario 1 - Loading forecast successfully for current location
+
+    1- If running app on simulator then set custom location.
+
